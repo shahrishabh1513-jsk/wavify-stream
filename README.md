@@ -45,7 +45,8 @@
 
 ## 📸 Preview
 
-<img src="https://via.placeholder.com/1200x700?text=Wavify+Music+Streaming+App" alt="Project Preview">
+<img width="1893" height="892" alt="Day_66_ss1" src="https://github.com/user-attachments/assets/6701001e-4087-4c4e-b3ab-81583654e6e2" />
+
 
 ---
 
